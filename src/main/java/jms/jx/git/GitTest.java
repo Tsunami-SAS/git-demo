@@ -8,5 +8,6 @@ public class GitTest {
     public static void main(String[] args) {
         System.out.println("hello git! haha");
         System.out.println("生气就不播，舆论参杂评论区是逼脸鲁的多");
+        System.out.println("hello git3");
     }
 }
